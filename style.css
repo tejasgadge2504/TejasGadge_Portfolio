@@ -1,0 +1,97 @@
+.meimg{
+box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+padding: 4;
+margin-left: 5;
+border-radius: 20px;
+transition: all 0.3s ease;
+
+}
+
+.meimg:hover{
+    padding: 10px;
+}
+.name{
+    font-size: 80px;
+    font-weight: 700;
+}
+.aboutme{
+    background-color: #121212;
+    box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.2), 80px -6px 20px 10px rgba(0, 0, 0, 0.19);
+padding-top: 20px;
+}
+
+.att{
+    transition: all 0.3s ease;
+}
+.att:hover{
+    padding: 10px;
+}
+
+.featurette{
+    padding-top: 20px;
+}
+#t{
+    color: white;
+}
+ul{
+    color: white;
+}
+h1{
+    align-items: center;
+    font-weight: 800;
+}
+
+#al{
+    color: white;
+    
+}
+.container{
+    padding-top: 20px;
+}
+.skills{
+    padding-top: 20px;
+}
+
+.card{
+    padding-left: 50px;
+    margin-left: 150px
+
+}
+.card > img{
+    width: 100px;
+    align-self: center;
+}
+.card-title{
+    position: relative;
+    align-self: end;
+
+}
+
+.footeri{
+    background-color: #121212;
+}
+#ft{
+    color: white;
+}
+
+li{
+    transition: all 0.3s ease;
+  }
+
+li:hover{
+  padding: 10px;
+}
+
+.card{
+    transition: all 0.3s ease;
+    padding: 30px;
+}
+.card:hover{
+    padding: 20px;
+}
+
+#tp{
+    color: white;
+}
+
